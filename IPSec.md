@@ -1,8 +1,5 @@
-A continuación tienes una **organización clara y defendible** para tu portafolio de **NetBox**, enfocada en la sección de **Túneles VPN**, dejando explícito que es funcional pero **no ideal** y por qué.
 
----
-
-## Enfoque general (qué estás mostrando)
+## Enfoque General
 
 Este portafolio demuestra cómo **NetBox** puede adaptarse a escenarios reales donde el modelo de datos **no cubre completamente** la implementación de VPN, obligando al uso de **Custom Fields**.
 
