@@ -26,7 +26,7 @@ Eso es una **decisión técnica**, no un error. -
 ___
 ### Ejemplos
 
-![Mi imagen]([https://github.com/usuario/repositorio/raw/main/imagen.jpg](https://github.com/RandelMB/Portafolio_Netbox/blob/Rama/pngs/Pasted%20image%2020260225081856.png))
+![Mi imagen](https://github.com/RandelMB/Portafolio_Netbox/blob/Rama/pngs/Pasted%20image%2020260225081856.png)
 
 
 
