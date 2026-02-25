@@ -25,12 +25,12 @@ ___
 ### Ejemplos
 
 
+![[Pasted image 20260225081856.png]]
 
 ### Visión a futuro
 
 * Lograr vincular los circuitos o ISP con los tunes, me gustaria que tengan una relacion directa
-
-
+* Lograr utilizar el "Custom Fierld" del peer_remoto con un formato para agregar FQDN
 ---
 
 
